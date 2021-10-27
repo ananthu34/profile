@@ -1,5 +1,5 @@
 ### Hi there 👋🏻 
-I'm a Electronics and Communication Engineering Post Graduate of 2018 batch. I come with an extensive experience of working with different technologies including UI Automation, Automation Testing, Data Science, Machine Learning and Deep Learning.
+I'm a Electronics and Communication Engineering Post Graduate of 2018 batch. I come with an extensive experience of working with different technologies including Data Science, Machine Learning and Deep Learning.
 ### Things I'm good at :fire:
 **Languages:**  Python, SQL, Excel, Tableau
 
